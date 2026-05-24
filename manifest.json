@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-auto-delete",
+    "name": "Auto Delete Notes",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "description": "Автоматически удаляет заметки, если свойство 'Удалить' равно true",
+    "author": "Elton Labs.",
+    "isDesktopOnly": false
+}
